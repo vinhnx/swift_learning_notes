@@ -1,6 +1,6 @@
 # Swift learning notes
 
-I'm just get started learning/doing Swfit recently.
+So, I'm just get started learning/doing Swfit recently.
 
 Coming from Objective-C background, often times, I got stuck. 
 
